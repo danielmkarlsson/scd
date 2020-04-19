@@ -1,0 +1,2 @@
+# scd
+SuperCollider files
